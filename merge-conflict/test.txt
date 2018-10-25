@@ -1,4 +1,6 @@
 ## Hello
 This is a Git Test
+## Introduction
+This is a git learning repo.
 ## Appendix
-This is a Appendix
+This is a Appendix.
